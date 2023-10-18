@@ -27,3 +27,11 @@ A senior analyst confirms that the website was compromised. The analyst checks t
 The cybersecurity team reports that the web server was impacted by a brute force attack. The disgruntled baker was able to guess the password easily because the admin password was still set to the default password. Additionally, there were no controls in place to prevent a brute force attack. 
 
 > Your job is to review [a tcpdump log](https://github.com/binhnhu1409/Cybersecurity_OSHardeningTechniques/blob/main/DNS%20%26%20HTTP%20traffic%20log.pdf),  document the incident in detail, including identifying the network protocols used to establish the connection between the user and the website.  You should also recommend a security action to take to prevent brute force attacks in the future.
+
+## Tasks have been completed
+
+- [x] Review tcpdump log
+- [x] Learn how to read DNS & HTTP log
+- [x] [Document](https://github.com/binhnhu1409/Cybersecurity_OSHardeningTechniques/blob/main/Security%20incident%20report%20template.pdf) the incident
+- [x] Write 1 recommendation to help prevent brute force attacks in the future. 
+
